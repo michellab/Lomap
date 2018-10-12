@@ -5,7 +5,7 @@ sudo: false
 branches:
   only:
     - master
-
+    - networkx2
 
 before_install:
   - source devtools/travis-ci/install.sh 
